@@ -1,0 +1,67 @@
+.login_box{
+	width: 150%;
+	height: 400px;
+	border:1px solid lightgray;
+	padding-top: 20px;
+
+}
+.button:hover {
+	border: 0;
+  	color: white;
+  	background-color: hsl(202, 82%, 42%);
+}
+.button{
+	text-align: center;
+	width: 260px;
+	background-color:  hsl(202, 95%, 47%);
+	border: 0;
+	height: 31px;
+	color: white;
+	border-radius: 7px;
+}
+.img{
+	width: 10px;
+}
+.div2{
+	border: 1px solid lightgray;
+	width: 150%;
+	height: 40px;
+	padding-top: 20px;
+	margin-top: 20px;
+}
+.email{
+	width: 250px;
+	height: 31px;
+	border-radius: 3px;
+	border:1px solid lightgray;
+	background-color: hsl(220, 13%, 95%);
+}
+.password{
+	width: 250px;
+	height: 31px;
+	border:1px solid lightgray;
+	border-radius:3px;
+	background-color: hsl(220, 13%, 95%);
+}
+a{
+	color: hsl(202, 95%, 47%);
+	text-decoration: none;
+}
+.bottom{
+	display: flex;
+	width: 120%;
+	text-align: center;
+	
+}
+.div{
+	margin: 20px;
+	width: 210px;
+}
+.gif{
+	text-align: right;
+	width: 0%;
+}
+input:focus{
+	outline: none;
+	border: 1px solid dimgray;
+}
